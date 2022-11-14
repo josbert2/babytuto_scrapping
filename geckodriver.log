@@ -1,0 +1,284 @@
+1645026927545	geckodriver	INFO	Listening on 127.0.0.1:62690
+1645026928065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62691" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileEsNXlp"
+1645026930471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileEsNXlp/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:62691/devtools/browser/e1e5ce29-bf30-ad4d-975a-c2ad9104bff6
+1645026936498	Marionette	INFO	Listening on port 62700
+1645026936619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 822: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 824: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1447: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1536: unreachable code after return statement
+1645026944914	geckodriver	INFO	Listening on 127.0.0.1:62958
+1645026945445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62959" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileSjl6b0"
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false, line 188: TypeError: h is undefined
+1645026948545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileSjl6b0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:62959/devtools/browser/a70c3d12-9209-6f40-a580-0ff537427b40
+1645026957224	Marionette	INFO	Listening on port 62972
+1645026957308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 825: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 827: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1453: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1542: unreachable code after return statement
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false, line 188: TypeError: h is undefined
+1645026968438	geckodriver	INFO	Listening on 127.0.0.1:63343
+JavaScript error: https://maps.googleapis.com/maps-api-v3/api/js/47/7a/intl/es_419/common.js, line 33: URIError: malformed URI sequence
+1645026968465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63344" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilecqPCyr"
+1645026970638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilecqPCyr/search.json.mozlz4", (void 0)))
+!!! error running onStopped callback: TypeError: callback is not a function
+1645026978811	Marionette	INFO	Stopped listening on port 62972
+console.error: SearchService: "maybeReloadEngines failed" ({})
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645026981072	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1645026981217	Marionette	INFO	Stopped listening on port 62700
+[Parent 16572, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 16572, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645026982581	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1645027238101	geckodriver	INFO	Listening on 127.0.0.1:63758
+1645027238231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63759" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilekJmice"
+1645027239611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofilekJmice/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:63759/devtools/browser/64d84a0a-ceaa-1b41-bcf5-4700afa6cfc0
+1645027246648	Marionette	INFO	Listening on port 63764
+1645027246771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 822: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 824: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1447: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1536: unreachable code after return statement
+1645027256543	geckodriver	INFO	Listening on 127.0.0.1:64014
+1645027257070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64015" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileBJIrZx"
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false, line 188: TypeError: h is undefined
+1645027259176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileBJIrZx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:64015/devtools/browser/4654cf33-38c7-344c-a849-12f3bd5c9dcd
+1645027266693	Marionette	INFO	Listening on port 64026
+1645027266933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 825: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 827: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1453: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1542: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1645027274336	Marionette	INFO	Stopped listening on port 63764
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1645027275994	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1645027276329	Marionette	INFO	Stopped listening on port 64026
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645027277266	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1645027758074	geckodriver	INFO	Listening on 127.0.0.1:65270
+1645027758594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65271" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWYZaSa"
+1645027760161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileWYZaSa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65271/devtools/browser/ca30c787-1ad4-a34e-a931-47192d752bee
+1645027768107	Marionette	INFO	Listening on port 65278
+1645027768223	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 822: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 824: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1447: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,timer-dental-angie,227656, line 1536: unreachable code after return statement
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false, line 188: TypeError: h is undefined
+1645027813283	Marionette	INFO	Stopped listening on port 65278
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645027814319	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
+1645027814525	geckodriver	INFO	Listening on 127.0.0.1:49333
+1645027815047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49334" "-foreground" "-no-remote" "-profile" "/var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileyAbsYz"
+1645027816386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xs/74k8fjls0hnds40rny9mcy_r0000gn/T/rust_mozprofileyAbsYz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49334/devtools/browser/ffcab196-6d41-8448-ad7a-7583dab961d2
+1645027821002	Marionette	INFO	Listening on port 49341
+1645027821142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 824: SyntaxError: expected expression, got ','
+JavaScript error: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 826: TypeError: window._fbq is undefined
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1452: unreachable code after return statement
+JavaScript warning: https://www.babytuto.com/productos/libros-infantiles-libros-infantiles,album-dental-premium-color-rosado-angie,227655, line 1541: unreachable code after return statement
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:918:3
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1645028069609	Marionette	INFO	Stopped listening on port 49341
+1645028069714	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:129
